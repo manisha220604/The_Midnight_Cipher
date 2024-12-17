@@ -1,10 +1,14 @@
 Chapter 1: The Letter and the Body
 
-The letter was chilling in its simplicity:
+
+The letter was plain, but its message was far from ordinary:
 "The clock strikes twelve, and blood spills. Solve the cipher, or it happens again."
 
-Detective Serena Kane felt her pulse quicken as she read the message. It wasn’t just a threat—it was a dare, meant to provoke her. She copied the letter into her notebook, jotting questions alongside it. Who had sent it? And why her?
+Detective Serena Kane read it twice, her mind already dissecting its meaning. The accompanying cipher—a grid of letters—demanded attention, but there was no sender, no context, and no immediate leads. She made a copy, bagged the original as evidence, and added it to her growing collection of unsolved oddities.
 
-Hours later, she stood in Professor Edward Grant’s apartment, staring at his lifeless body. Blood trailed across his desk, where a cipher had been written in jagged lines. The deliberate, almost ceremonial nature of the scene made her uneasy.
+The murder came an hour later: Professor Edward Grant, a cryptologist, found dead in his apartment. The crime scene told a clear story of violence. Blood pooled under the body, his throat slit cleanly. But it was the cipher written in blood on the desk that caught her attention—a deliberate signature from a calculated mind.
 
-Serena knew she wasn’t just dealing with a murderer. She was up against someone who wanted to be understood—and feared.
+The victim’s connection to ciphers felt too deliberate to be coincidence. She called Nate Branson, a cybersecurity expert and cryptographer, for help. Nate cracked the first message:
+"The past is never buried. Look beneath the veil."
+
+What veil? And what past? The questions gnawed at her as she delved into Grant’s life.

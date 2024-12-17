@@ -1,0 +1,30 @@
+Primary Characters
+Detective Serena Kane
+Role: Protagonist
+Description: Serena is a sharp, methodical homicide detective in her late 30s, known for her dogged pursuit of justice. She has a no-nonsense demeanor but harbors a deep sense of empathy that she struggles to show. Haunted by a personal tragedy—a case she couldn’t solve—Serena approaches every investigation with a mix of determination and guilt.
+Motivation: Serena sees the Midnight Cipher case as her chance to not only solve a mystery but to prove that justice is more than just a word. She is relentless in unraveling the truth, even when it forces her to confront uncomfortable moral dilemmas.
+Rebecca Grant
+Role: Antagonist (and tragic figure)
+Description: The daughter of the first victim, Professor Edward Grant, Rebecca is in her late 20s, with a quiet, intelligent presence. Beneath her reserved exterior lies a simmering anger and grief. Having spent years watching her father’s obsession with Clara Bennett’s case destroy his reputation and life, Rebecca took it upon herself to finish what he started—at any cost.
+Motivation: Rebecca believes she’s exposing a corrupt system that allowed powerful men to get away with murder. Her actions blur the line between justice and revenge, and she struggles with the morality of her choices, even as she commits them.
+Nate Branson
+Role: Cryptographer and Serena’s ally
+Description: Nate is a tech-savvy cryptographer in his early 30s, with a laid-back personality that contrasts Serena’s intensity. He is a puzzle enthusiast, with a knack for seeing patterns where others see chaos. Though his work often keeps him behind a desk, he finds the Midnight Cipher case exhilarating.
+Motivation: Nate is driven by curiosity and a desire to help Serena. Though he initially approaches the ciphers as intellectual challenges, the stakes of the case force him to confront the human cost of his work.
+Supporting Characters
+Professor Edward Grant
+Role: The first victim
+Description: A distinguished cryptologist in his 60s, Grant was a meticulous researcher who became consumed by Clara Bennett’s unsolved murder. His obsession with uncovering the truth isolated him from his peers and estranged him from his daughter.
+Motivation: In life, Grant sought to expose the lies and corruption surrounding Clara’s death. His murder becomes the catalyst for Serena’s investigation.
+Victor Halstrom
+Role: Suspect
+Description: An 80-year-old real estate tycoon with a reputation for ruthlessness. Halstrom is cold, calculating, and dismissive of anyone who questions his past. His wealth and influence have shielded him from accountability, but Clara Bennett’s murder looms as a dark stain on his legacy.
+Motivation: Halstrom is desperate to keep his secrets buried. He sees Serena’s investigation as an unnecessary intrusion into a chapter of his life he’d rather forget.
+Clara Bennett (Posthumous Figure)
+Role: The case at the heart of the mystery
+Description: Clara was a vibrant, ambitious young woman in her early 20s, whose life ended in a brutal murder decades ago. Though she never appears in the story, her presence is deeply felt through the artifacts Serena uncovers and the journal left behind by Edward Grant.
+Motivation: Clara represents innocence lost and the failure of the justice system. Her story serves as the emotional core of the mystery.
+Captain Linda Moreno
+Role: Serena’s superior officer
+Description: Captain Moreno is a seasoned, pragmatic leader who trusts Serena’s instincts but often challenges her on procedure. She plays a balancing role, supporting Serena while reminding her of the limits of the law.
+Motivation: Moreno wants to close the case quickly and cleanly but also understands the importance of uncovering the truth, even if it’s messy.

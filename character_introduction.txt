@@ -1,7 +1,7 @@
 Primary Characters
 Detective Serena Kane
-Role: Protagonist
-Description: Serena is a sharp, methodical homicide detective in her late 30s, known for her dogged pursuit of justice. She has a no-nonsense demeanor but harbors a deep sense of empathy that she struggles to show. Haunted by a personal tragedy—a case she couldn’t solve—Serena approaches every investigation with a mix of determination and guilt.
+Role: Protagonist/Lead
+Description: Serena is a sharp, methodical homicide detective in her late 30s, known for her dogged and relentless pursuit of justice. She has a no-nonsense demeanor but harbors a deep sense of empathy that she struggles to show. Haunted by a personal tragedy—a case she couldn’t solve—Serena approaches every investigation with a mix of determination and guilt.
 Motivation: Serena sees the Midnight Cipher case as her chance to not only solve a mystery but to prove that justice is more than just a word. She is relentless in unraveling the truth, even when it forces her to confront uncomfortable moral dilemmas.
 Rebecca Grant
 Role: Antagonist (and tragic figure)
